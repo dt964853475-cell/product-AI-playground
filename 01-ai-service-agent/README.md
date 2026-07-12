@@ -88,7 +88,16 @@ flowchart TD
 - 目标用户与核心场景
 - 脱敏后的产品流程
 - AI 工作流的整体设计思路
-- 后续可补充的评测与 Badcase 记录
+- 用户流程、原型截图、工作流架构
+- 评测方法与 Badcase 复盘
+
+## 相关文档
+
+- [产品说明](docs/product-brief.md)
+- [用户流程说明](docs/user-flow.md)
+- [AI 工作流架构说明](docs/workflow-architecture.md)
+- [评测与 Badcase 复盘](docs/CODEX_evaluation-and-badcase.md)
+- [小红书发布草稿](docs/CODEX_xiaohongshu-post.md)
 
 暂不公开：
 
@@ -109,9 +118,8 @@ flowchart TD
 
 ## 后续计划
 
-- 补充脱敏版用户流程说明
-- 补充 AI 工作流结构说明
 - 补充 Prompt 设计思路和回复边界
-- 补充测试问题样例与 Badcase 记录
-- 补充脱敏原型截图或演示图
+- 补充更完整的测试问题样例
+- 补充更多 Badcase 的分类和优化记录
+- 补充人工接管后的反馈闭环说明
 
