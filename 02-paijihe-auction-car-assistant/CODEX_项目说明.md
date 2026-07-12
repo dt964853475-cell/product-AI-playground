@@ -18,3 +18,13 @@
 - MVP 功能清单
 - 后续 AI 问答与外部 API 接入规划
 
+## 本次发布内容
+
+- [产品说明](docs/CODEX_product-brief.md)
+- [用户流程与原型图](docs/CODEX_user-flow-and-prototype.md)
+- [API 与 AI 能力规划](docs/CODEX_api-and-ai-plan.md)
+- [小红书发布草稿](docs/CODEX_xiaohongshu-post.md)
+
+## 公开边界
+
+当前版本用于展示 AI 产品经理作品集中的产品拆解、MVP 设计和工程协作思路。所有数据均为演示数据，不构成车辆交易、法律、财务或投资建议。
